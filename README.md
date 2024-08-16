@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navidahmadiii" alt="navidahmadiii" /></a> </p>
 
-- 🌱 I’m interested in learning **Go Programming language**
+- 🌱 I’m interested in learning **Python and Go Programming language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NavidAhmadiii](https://github.com/NavidAhmadiii)
 
