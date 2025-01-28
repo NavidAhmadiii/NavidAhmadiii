@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navid Ahmadi</h1>
-<h3 align="center">A passionate data analytics and back-end programmer from Iran, interested in machine learning and data scientist.</h3>
+<h3 align="center">A passionate data analytics and back-end programmer from Iran.</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Data Scientist and Data Analytics**
 
